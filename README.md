@@ -1,3 +1,3 @@
 # WA86223
 
-Jenkins and GitHub Integration Lab
+Jenkins Continuous Integration Test
